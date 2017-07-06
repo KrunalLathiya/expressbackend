@@ -22,7 +22,7 @@
     "cors": "^2.8.3",
     "express": "^4.15.3",
     "mongodb": "^2.2.29",
-    "mongoose": "^4.11.0"
+    "mongoose": "4.10.0"
   },
   "devDependencies": {
     "jshint": "^2.9.4",
